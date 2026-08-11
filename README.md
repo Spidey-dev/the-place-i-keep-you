@@ -1,21 +1,25 @@
-# The Place I Keep You
+# A Story Called Stella
 
-A private, cinematic love-letter website built as a **mobile-first, multi-page experience**.
+A private, mobile-first, multi-page love-story website made for Stella.
 
-## Pages
-- `index.html` — opening scene
-- `reasons.html` — why you
-- `story.html` — our story
-- `memories.html` — little things
-- `letter.html` — the letter
-- `future.html` — the things still on the list
-- `secret.html` — private final room
+## Experience
 
-## Design
-Every page is a full-screen viewport scene (`100svh`) with no page-length scrolling. Navigation stays inside the viewport so the experience feels like a small private app rather than a long website.
+- `index.html` — Opening: For Stella
+- `reasons.html` — The first hello: the Facebook request and the reply before Valentine’s 2026
+- `story.html` — The day we finally met
+- `memories.html` — The private language: “My Own Babe” and “My Mr Marvis”
+- `letter.html` — A personal letter from Marvis to Stella
+- `future.html` — The future they are building together
+- `secret.html` — The final private room
 
-## Personalize
-Replace the sample copy with her real name, real dates, specific memories, photos, voice notes, and the exact words you want her to hear. The strongest version is the one that only the two of you could recognise.
+## Design direction
+
+Pink, hearts, flowers, soft storybook typography, intimate copy, and full-screen mobile-first pages. Each page is designed as a self-contained chapter rather than a long scrolling landing page.
+
+## Personalization
+
+The story currently uses the real relationship details provided by Marvis. Add real photos, exact dates, voice notes, favourite places, inside jokes, and other private memories before presenting it as the final keepsake.
 
 ## Deployment
-This is a dependency-free static site and works on GitHub Pages, Vercel, Netlify, Cloudflare Pages, or any standard web host.
+
+Pure static HTML/CSS/JavaScript. Works on GitHub Pages, Vercel, Netlify, Cloudflare Pages, or any standard web host.
